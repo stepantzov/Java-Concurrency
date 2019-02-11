@@ -1,4 +1,4 @@
-package concur.cuntdownLatches;
+package concur.cuntdownLatches.old;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;

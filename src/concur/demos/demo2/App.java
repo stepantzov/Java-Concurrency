@@ -1,4 +1,4 @@
-package concur.demo2;
+package concur.demos.demo2;
 
 class Runner implements Runnable {
 

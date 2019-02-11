@@ -1,4 +1,4 @@
-package concur.demo4;
+package concur.demos.demo4;
 
 import java.util.Scanner;
 

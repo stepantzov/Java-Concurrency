@@ -1,4 +1,4 @@
-package concur.demo1;
+package concur.demos.demo1;
 
 public class Runner extends Thread {
     /**

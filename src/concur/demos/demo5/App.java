@@ -1,4 +1,4 @@
-package concur.demo5;
+package concur.demos.demo5;
 
 public class App {
     private int count = 0;
