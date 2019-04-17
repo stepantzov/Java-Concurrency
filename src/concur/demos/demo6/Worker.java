@@ -1,4 +1,4 @@
-package concur.demo6;
+    package concur.demos.demo6;
 
 import java.util.ArrayList;
 import java.util.List;

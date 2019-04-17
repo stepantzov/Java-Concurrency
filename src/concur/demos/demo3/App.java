@@ -1,4 +1,4 @@
-package concur.demo3;
+package concur.demos.demo3;
 
 public class App {
     public static void main(String[] args) {
